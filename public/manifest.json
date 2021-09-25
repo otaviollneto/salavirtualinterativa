@@ -1,7 +1,7 @@
 {
-  "short_name": "Video Meeting",
-  "name": "Video Meeting",
-  "start_url": "https://video.sebastienbiollo.com",
+  "short_name": "Video Venus2",
+  "name": "Video Venus2",
+  "start_url": "https://venusmeet.herokuapp.com/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff",

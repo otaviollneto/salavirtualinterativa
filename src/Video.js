@@ -22,7 +22,7 @@ import "./Video.css";
 
 const server_url =
   process.env.NODE_ENV === "production"
-    ? "https://video.sebastienbiollo.com"
+    ? "https://venusmeet.herokuapp.com"
     : "http://localhost:4001";
 
 var connections = {};
@@ -737,7 +737,7 @@ class Video extends Component {
                     color: "whitesmoke",
                     marginLeft: "20px",
                     marginTop: "10px",
-                    width: "120px",
+                    width: "200px",
                     fontSize: "10px",
                   }}
                   onClick={this.copyUrl}
