@@ -520,7 +520,7 @@ class Video extends Component {
       textArea.select();
       try {
         document.execCommand("copy");
-        message.success("Link copied to clipboard!");
+        message.success("Link copiado com sucesso!");
       } catch (err) {
         message.error("Failed to copy");
       }
@@ -529,7 +529,7 @@ class Video extends Component {
     }
     navigator.clipboard.writeText(text).then(
       function () {
-        message.success("Link copied to clipboard!");
+        message.success("Link copiado com sucesso!");
       },
       () => {
         message.error("Failed to copy");
