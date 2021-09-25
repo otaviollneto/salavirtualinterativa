@@ -1,7 +1,7 @@
 {
-  "short_name": "Video Venus2",
-  "name": "Video Venus2",
-  "start_url": "https://venusmeet.herokuapp.com/",
+  "short_name": "BarMeet",
+  "name": "BarMeet",
+  "start_url": "https://barmeet.herokuapp.com/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff",
