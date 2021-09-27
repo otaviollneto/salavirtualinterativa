@@ -27,7 +27,9 @@ class Home extends Component {
     return (
       <div className="container2">
         <div>
-          <h1 style={{ fontSize: "45px" }}>BarMeet - Video Chamada</h1>
+          <h1 style={{ fontSize: "45px" }}>
+            Sala Virtual Interativa - Video Chamada
+          </h1>
           <p style={{ fontWeight: "200" }}>
             Que tal bater um papo com alguém de forma diferente!
           </p>

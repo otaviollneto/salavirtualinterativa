@@ -22,7 +22,7 @@ import "./Video.css";
 
 const server_url =
   process.env.NODE_ENV === "production"
-    ? "https://barmeet.herokuapp.com"
+    ? "https://svinterativa.herokuapp.com"
     : "http://localhost:4001";
 
 var connections = {};

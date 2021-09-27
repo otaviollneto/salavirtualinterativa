@@ -1,7 +1,7 @@
 {
-  "short_name": "BarMeet",
-  "name": "BarMeet",
-  "start_url": "https://barmeet.herokuapp.com/",
+  "short_name": "SVInterativa",
+  "name": "SVInterativa",
+  "start_url": "https://svinterativa.herokuapp.com",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff",
