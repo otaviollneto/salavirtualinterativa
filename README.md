@@ -1,27 +1,25 @@
-# Video Meeting
+# Sala Virtual Interativa
 
-Google Meet / Zoom clone in a few lines of code.
+Video chama para conferencia entre 2 ou mais pessoas.
 
-Video Meeting is a video conference website that lets you stay in touch with all your friends.
+Tools: ReactJS, Node.js, SocketIO.
 
-Developed with ReactJS, Node.js, SocketIO.
+![Teste Online](https://i.imgur.com/HhZD01o.jpg)
 
-![Website](https://i.imgur.com/HhZD01o.jpg)
-
-### Website
-Try Video Meeting here [video.sebastienbiollo.com](https://video.sebastienbiollo.com)
+### Teste Sala Virtual
+Faça o teste aqui [svinterativa.herokuapp.com](https://svinterativa.herokuapp.com/)
 
 
 ### Features
-- Is 100% free and open-source
-- No account needed
-- Unlimited users
-- Messaging chat and video streaming in real-time
-- Screen sharing to present documents, slides, and more
-- Everyting is peer-to-peer thanks to webrtc
+- É 100% free e open-source
+- Não precida criar conta
+- Sem limites de usuários
+- Menssagem enviada via chat em tempo real
+- Permite compartilhamento de tela
+- Todo o processo é peer-to-peer usando webrtc
 
 
-### Local setup
+### Instalação Local
 
 1. `yarn install`
 2. `yarn dev`
